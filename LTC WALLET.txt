@@ -1,0 +1,23 @@
+LKHHX63zah6QtKGXLxpXY8a8FZhsBqcNFs [ LTC INDODAX ]
+
+TRfxskL9vNNh2VoeexAPFPMqFgEWzov6my  [ TRX ]
+
+t1L5dvN8h96sNWVxCQcW9jhBztTRoD9yyN9 [ ZEC ]
+
+DTjD876KUiSJU6fACNg35cg5FsDE38gBWs  [ DOGE }
+
+1BjMRMZsZwcPRtNDQbEjAGxp83dn5ZBNER [ BTC ]
+
+
+byuindr.a4@gmail.com ==
+byuindr.a.4@gmail.com ==
+byuind.ra4@gmail.com ==
+byuind.ra.4@gmail.com ==
+byuind.r.a4@gmail.com ==
+byuind.r.a.4@gmail.com ==
+byuin.dra4@gmail.com ==
+byuin.dra.4@gmail.com ==
+byuin.dr.a4@gmail.com
+byuin.dr.a.4@gmail.com
+
+-a x11evo -o stratum+tcp://x11evo.mine.zpool.ca:3553 -u LKHHX63zah6QtKGXLxpXY8a8FZhsBqcNFs -p c=LTC
